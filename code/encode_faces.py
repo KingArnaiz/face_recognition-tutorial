@@ -1,5 +1,5 @@
 # USAGE
-# python3 encode_faces.py --dataset dataset --encodings pickle/encodings.pickle
+# python3 encode_faces.py --dataset dataset --encodings encoding.pickle
 #@Author: Ronrick Daano
 
 
