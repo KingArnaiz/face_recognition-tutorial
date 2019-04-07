@@ -1,6 +1,6 @@
 # USAGE
-# python3 recognize_faces_video_file.py --encodings encodings.pickle --input videos/lunch_scene.mp4
-# python3 recognize_faces_video_file.py --encodings encodings.pickle --input videos/lunch_scene.mp4 --output output/lunch_scene_output.avi --display 0
+# python3 recognize_faces_video_file.py --encodings encoding.pickle --input videos/lunch_scene.mp4
+# python3 recognize_faces_video_file.py --encodings encoding.pickle --input videos/lunch_scene.mp4 --output output/lunch_scene_output.avi --display 0
 
 # import the necessary packages
 import face_recognition
