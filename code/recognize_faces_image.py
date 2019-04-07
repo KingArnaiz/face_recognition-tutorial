@@ -1,5 +1,5 @@
 # USAGE
-# python3 recognize_faces_image.py --encodings pickle/encodings.pickle --image examples/example_0a.png 
+# python3 recognize_faces_image.py --encodings encoding.pickle --image examples/example_1.png 
 
 # import the necessary packages
 import face_recognition
